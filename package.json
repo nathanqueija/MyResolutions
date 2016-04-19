@@ -1,0 +1,20 @@
+{
+  "name": "myresolutions",
+  "version": "1.0.0",
+  "description": "Um projeto feito com Meteor 1.3 e React como a camada de UI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "meteor",
+    "react"
+  ],
+  "author": "Nathan Queija",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^15.0.1",
+    "react-dom": "^15.0.1",
+    "react-mounter": "^1.2.0"
+  }
+}
